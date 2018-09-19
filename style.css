@@ -1,0 +1,86 @@
+.left {
+    position:absolute;
+    padding-top: 5px;
+    background-color: #333333;
+    left:0; top:0; bottom: 0;
+    width: 125px;
+    
+    
+}
+.main {
+    position: absolute;
+    left:150px; top:50px; right:0; bottom: 0;
+    background-image: url(assets/bckg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+    padding-top: 200px;
+    padding-left: 15px;
+    color: white;
+    text-align: justify;
+}
+
+
+#list {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    padding-left: 50px;
+}
+
+input {
+    display: none;
+    
+}
+
+h1 {
+    color: white;
+    padding-left: 400px;
+    padding-top: 200px;
+    }
+
+#simplicity {
+    display: visible;
+
+}
+
+.inputButton {
+    color: white;
+    padding-left: 400px;
+}
+
+.show {
+    display: block;
+}
+
+.print {
+    color: #85827F;
+    padding-bottom: 5px;
+}
+.verify {
+    color: #85827F;
+    padding-bottom: 5px;
+}
+.lookup {
+    color: #85827F;
+    padding-bottom: 5px;
+}
+.contains {
+    color: #85827F;
+    padding-bottom: 5px;
+}
+.update {
+    color: #85827F;
+    padding-bottom: 5px;
+}
+.add {
+    color: #85827F;
+    padding-bottom: 5px;
+}
+.delete {
+    color: #85827F;
+    padding-bottom: 5px;
+}
